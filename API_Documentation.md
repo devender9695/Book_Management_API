@@ -49,7 +49,7 @@ Request Body
 {
   "title": "Book Title",
   "author": "Author Name",
-  "publicationYear": 2022
+  "publicationYear": 2024
 }
 Success Response:
 Code: 201 CREATED
@@ -60,7 +60,7 @@ Code: 201 CREATED
     "_id": "book_id",
     "title": "Book Title",
     "author": "Author Name",
-    "publicationYear": 2022
+    "publicationYear": 2024
   }
 }
 
@@ -74,7 +74,7 @@ Request Body:
     {
   "title": "Updated Book Title",
   "author": "Updated Author Name",
-  "publicationYear": 2023
+  "publicationYear": 2024
 }
 
 
@@ -88,7 +88,7 @@ Content:
     "_id": "book_id",
     "title": "Updated Book Title",
     "author": "Updated Author Name",
-    "publicationYear": 2023
+    "publicationYear": 2024
   }
 }
 Delete a Book
@@ -105,7 +105,7 @@ Content:
     "_id": "book_id",
     "title": "Deleted Book Title",
     "author": "Deleted Author Name",
-    "publicationYear": 2022
+    "publicationYear": 2024
   }
 }
 
@@ -171,7 +171,7 @@ Copy code
 {
   "title": "Book Title",
   "author": "Author Name",
-  "publicationYear": 2022
+  "publicationYear": 2024
 }
 Success Response:
 Code: 201 CREATED
@@ -197,7 +197,7 @@ Copy code
 {
   "title": "Updated Book Title",
   "author": "Updated Author Name",
-  "publicationYear": 2023
+  "publicationYear": 2024
 }
 Success Response:
 Code: 200 OK
@@ -228,7 +228,7 @@ Copy code
     "_id": "book_id",
     "title": "Deleted Book Title",
     "author": "Deleted Author Name",
-    "publicationYear": 2022
+    "publicationYear": 2024
   }
 }
 
